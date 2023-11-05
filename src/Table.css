@@ -1,0 +1,21 @@
+
+header, .row {
+    display: flex;
+}
+
+.title {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+.cell {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.col {
+    flex: 1;
+}
